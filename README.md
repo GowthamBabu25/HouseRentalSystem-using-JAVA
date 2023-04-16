@@ -153,6 +153,3 @@
           Effectively resolving the house issues is important to the tenant’s long-term future, the House Rental Project will be an important tool for creating rental housing stability by helping tenants speak with greater credibility through initiating and documenting communications and building productive relationships with admins. Finally, the goal of the project is to create a better relationship between tenants and a sellers which can be achieved through this project.
 
 
-
-          ![1](https://user-images.githubusercontent.com/121682057/232265866-7687fab1-144b-46da-8297-04ae93e8aae1.png)
-
