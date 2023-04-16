@@ -108,6 +108,45 @@
 
           ![1](https://user-images.githubusercontent.com/121682057/232264645-0f43536c-c32d-4e5e-b506-b60a6dca00d6.png)
           
+          Home
+          ![2](https://user-images.githubusercontent.com/121682057/232264731-33f10e1e-ced0-4158-ba0f-9579d9754d07.png)
+          
+          Admin Login
+          ![adminlogin](https://user-images.githubusercontent.com/121682057/232264780-096f1db7-0412-4ff2-90dd-88ef1ae9aec2.png)
+          
+          Admin Interface
+          ![admininterface](https://user-images.githubusercontent.com/121682057/232264766-ad3b8c56-011c-4ef6-b5b5-83567b34c094.png)
+          
+          Update House Details
+          ![updatehousedetails](https://user-images.githubusercontent.com/121682057/232264795-f8c17663-5506-4a64-b45d-7099077c3dc1.png)
+
+          View Reports
+          ![viewreports](https://user-images.githubusercontent.com/121682057/232264809-ed093ad5-1db3-4c48-bee7-e3fb2c3e173c.png)
+          
+          View Tenant Details
+          ![viewtenantdetails](https://user-images.githubusercontent.com/121682057/232264815-2d54cc60-720a-4392-8eff-fe037c27726a.png)
+          
+          Tenant Login
+          ![tenantlogin](https://user-images.githubusercontent.com/121682057/232264830-1aca11a7-a577-4307-813b-17440344a338.png)
+          
+          Tenant Interface
+          ![TenantInterface](https://user-images.githubusercontent.com/121682057/232264845-15eff5c6-ad95-454c-928e-ff3db001dffc.png)
+          
+          Searching House
+          ![bookhouse](https://user-images.githubusercontent.com/121682057/232264874-47986f7b-81ba-4dce-a973-c8ce1bd36e3a.png)
+          
+          Report Issue
+          ![reportissue](https://user-images.githubusercontent.com/121682057/232264908-c9f457ef-005f-4ba9-8a4f-752b5265c2f4.png)
+
+          Pay Rent
+          ![payrent](https://user-images.githubusercontent.com/121682057/232264915-657d939f-65b3-4f25-8a19-2c86c0c8e918.png)
+
+          View Agreement
+          ![agreement](https://user-images.githubusercontent.com/121682057/232264931-c63cb2e2-1ec2-403e-b0f8-51982daefccc.png)
+
+          SignUp
+          ![signup](https://user-images.githubusercontent.com/121682057/232264946-3cb9ef24-75cf-42f7-85d7-fa040fe73f33.png)
+          
 
 10.SUMMARY:
           
