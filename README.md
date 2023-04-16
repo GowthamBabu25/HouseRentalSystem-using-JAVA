@@ -106,7 +106,7 @@
                  7. The view feedback button is clicked to view the issue faced by the tenants in their respective houses.
 9. Screenshots
 
-          ![1](https://user-images.githubusercontent.com/121682057/232264645-0f43536c-c32d-4e5e-b506-b60a6dca00d6.png?raw=true "Intro")
+          [![1.png](https://i.postimg.cc/85zgtg3n/1.png)](https://postimg.cc/kVzHgz7x)
           
           Home
           ![2](https://user-images.githubusercontent.com/121682057/232264731-33f10e1e-ced0-4158-ba0f-9579d9754d07.png)
