@@ -109,7 +109,7 @@
           [![1.png](https://i.postimg.cc/85zgtg3n/1.png)](https://postimg.cc/kVzHgz7x)
           
           Home
-          ![2](https://user-images.githubusercontent.com/121682057/232264731-33f10e1e-ced0-4158-ba0f-9579d9754d07.PNG)
+          ![2](https://user-images.githubusercontent.com/121682057/232264731-33f10e1e-ced0-4158-ba0f-9579d9754d07.png)
           
           Admin Login
           ![adminlogin](https://user-images.githubusercontent.com/121682057/232264780-096f1db7-0412-4ff2-90dd-88ef1ae9aec2.png)
