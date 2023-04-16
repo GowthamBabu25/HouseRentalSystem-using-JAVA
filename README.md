@@ -51,48 +51,48 @@
             
             TABLE STRUCTURE
                   TABLE NAME: admin
-                  SI.NO	FIELD NAME	DATATYPE	  DESCRIPTION
-                  1	    Username	  Varchar(20)	username
-                  2   	Password	  Vrchar(20)	password
+                  SI.NO    FIELD NAME	DATATYPE	    DESCRIPTION
+                  1	       Username	Varchar(20)   username
+                  2        Password	Varchar(20)   password
                   
             TABLE NAME: Tenant
-                  SI.NO	FIELD NAME	DATATYPE	    DESCRIPTION
-                  1	    Username	  Varchar(20)	  Username
-                  2	    Password	  varchar(20)	  Password
-                  3	    Email	      Varchar(50)	  Email
-                  4	    Phone	      Varchar(15)	  Phone
-                  5	    Date	      Varchar(20)	  Date
+                  SI.NO   FIELD NAME	DATATYPE	    DESCRIPTION
+                  1	      Username	Varchar(20)   Username
+                  2	      Password	varchar(20)   Password
+                  3	      Email	Varchar(50)   Email
+                  4	      Phone	Varchar(15)   Phone
+                  5	      Date	Varchar(20)   Date
      
             TABLE NAME: Tenant Details
-                  SI.NO	  FIELD NAME	DATATYPE	    DESCRIPTION
-                  1	      Name	      Varchar(20)  	Describes the name of the tenant
-                  2	      Area	      varchar(50)	  Describes the area in which the rental house is available
-                  3	      Rooms	      Varchar(10)	  Describe the number of rooms in the house
-                  4	      House	      Varchar(15)	  Describes the name of the rental house
-                  5	      People	    Varchar(10)	  Describes the number of people in the selected house
-                  6	      Paid	      Varchar(10)	  Describes whether the tenant has paid the rent or not
+                  SI.NO   FIELD NAME	DATATYPE	    DESCRIPTION
+                  1	      Name	Varchar(20)   Describes the name of the tenant
+                  2	      Area	varchar(50)   Describes the area in which the rental house is available
+                  3	      Rooms	Varchar(10)   Describe the number of rooms in the house
+                  4	      House	Varchar(15)   Describes the name of the rental house
+                  5	      People	Varchar(10)   Describes the number of people in the selected house
+                  6	      Paid	Varchar(10)   Describes whether the tenant has paid the rent or not
 
 
             TABLE NAME: House Details
-                  SI.NO	FIELD NAME	DATATYPE	DESCRIPTION
-                  1	Area	Varchar(20)	Describes the area in which the rental house is available
-                  2	Id	varchar(10)	Describes the ID of the house.
-                  3	Housename	Varchar(20)	Describes the name of the rental house
-                  4	Rooms	Varchar(10)	Describes the number of rooms
-                  5	Booked	Varchar(10)	Describes whether the room has been booked or not.
+                  SI.NO   FIELD NAME	DATATYPE	    DESCRIPTION
+                  1	      Area	Varchar(20)   Describes the area in which the rental house is available
+                  2	      Id	          varchar(10)   Describes the ID of the house.
+                  3	      Housename	Varchar(20)   Describes the name of the rental house
+                  4	      Rooms	Varchar(10)   Describes the number of rooms
+                  5	      Booked	Varchar(10)   Describes whether the room has been booked or not.
 
              TABLE NAME: Issue
-                  SI.NO	FIELD NAME	DATATYPE	DESCRIPTION
-                  1	Name	Varchar(20)	Describe the name of the tenant
-                  2	Email	varchar(30)	Describes the email of the tenant
-                  3	Issue	Varchar(500)	Describes the issue faced by the tenant
+                  SI.NO   FIELD NAME	DATATYPE	    DESCRIPTION
+                  1	      Name	Varchar(20)   Describe the name of the tenant
+                  2	      Email	varchar(30)   Describes the email of the tenant
+                  3	      Issue	Varchar(500)  Describes the issue faced by the tenant
 
              TABLE NAME: rent		
-                  SI.NO	FIELD NAME	DATATYPE	DESCRIPTION
-                  1	Name	Varchar(20)	Describes the name of the tenant
-                  2	Credit card	varchar(20)	Describes the credit card number of the tenant
-                  3	Amount	Varchar(10)	Describes the amount to be paid for the rent
-                  4	Date	Varchar(20)	Describes the amount to be paid for the rent
+                  SI.NO   FIELD NAME    DATATYPE	    DESCRIPTION
+                  1	      Name	Varchar(20)   Describes the name of the tenant
+                  2	      CreditCard	varchar(20)   Describes the credit card number of the tenant
+                  3	      Amount	Varchar(10)   Describes the amount to be paid for the rent
+                  4	      Date	Varchar(20)   Describes the amount to be paid for the rent
 
  8.PROJECT FEATURES:
  
