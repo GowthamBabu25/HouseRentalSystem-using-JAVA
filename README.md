@@ -105,8 +105,7 @@
                  6. The view house details button is selected to view the details of tenants after registration
                  7. The view feedback button is clicked to view the issue faced by the tenants in their respective houses.
 9. Screenshots
-          
-          Intro
+
           ![1](https://user-images.githubusercontent.com/121682057/232264645-0f43536c-c32d-4e5e-b506-b60a6dca00d6.png)
           
 
