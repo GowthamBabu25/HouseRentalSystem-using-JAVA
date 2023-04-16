@@ -97,11 +97,12 @@
  8.PROJECT FEATURES:
  
              The project is implemented with the following features:
-             
-                 The tenant button is selected in the home window.
-                 The look for a house button is clicked and the required area, required rooms and required house are selected and register button is clicked.
-                 The pay rent button is clicked. Now the name, credit card number and amount are entered and the pay rent button is clicked to pay the rent.
-                 The report an issue button is clicked. Now the name, email and the issue in the house are sent to the admin when the report button is clicked.
-                 In the admin interface the update house details button is clicked and the new rental house details like area, rooms and house name are updated.
-                 The view house details button is selected to view the details of tenants after registration
-                 The view feedback button is clicked to view the issue faced by the tenants in their respective houses.
+                 1. The tenant button is selected in the home window.
+                 2. The look for a house button is clicked and the required area, required rooms and required house are selected and register button is clicked.
+                 3. The pay rent button is clicked. Now the name, credit card number and amount are entered and the pay rent button is clicked to pay the rent.
+                 4. The report an issue button is clicked. Now the name, email and the issue in the house are sent to the admin when the report button is clicked.
+                 5. In the admin interface the update house details button is clicked and the new rental house details like area, rooms and house name are updated.
+                 6. The view house details button is selected to view the details of tenants after registration
+                 7. The view feedback button is clicked to view the issue faced by the tenants in their respective houses.
+9. Screenshots
+          ![1](https://user-images.githubusercontent.com/121682057/232264645-0f43536c-c32d-4e5e-b506-b60a6dca00d6.png)
