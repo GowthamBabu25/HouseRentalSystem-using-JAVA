@@ -1,6 +1,7 @@
 "# HouseRentalSystem-using-JAVA" 
 
 1.PROBLEM STATEMENT:
+          
           The House Rental management system is to search a rented house and provides the admin a convenient and flexible way of updating the house details.
  
 2. OUTCOMES AND OBJECTIVES:
@@ -14,14 +15,21 @@
                   •	Booking rental house
                   •	Updation of house details
  3.EXSISTING MODEL:
+ 
               In the existing model, a person who is looking for a house should search the house in presence by going here and there which takes lot of time to get a house for a rent.
+
 4.PROPOSED MODEL:
+             
              This model eliminates that discomfortness while searching a house, the person who is searching a house can register their individual account, in this model, with the help of that account they can login into the tenant page where they can search the house which suits for them.  Which saves lot of time to search a house for rent.
+
 5.SOFTWARE AND HARDWARE REQUIREMENTS:
+            
             OPERATING SYSTEM: Windows 10
             FRONT END TOOLS: Java swing
             BACK END TOOLS: mySql and java
+
 6.SYSTEM DESIGN:
+            
             The Project has following classes for implementation
                       a)	HouseRent
                       b)	Home
@@ -38,7 +46,9 @@
                       m)	ReportIssue
                       n)	PayRent
                       o)	RentalSystem
+
 7.DTABASE DESIGN:
+            
             TABLE STRUCTURE
                   TABLE NAME: admin
                   SI.NO	FIELD NAME	DATATYPE	  DESCRIPTION
@@ -84,8 +94,14 @@
                   3	Amount	Varchar(10)	Describes the amount to be paid for the rent
                   4	Date	Varchar(20)	Describes the amount to be paid for the rent
 
-
-                      
-                   
-
-
+ 8.PROJECT FEATURES:
+ 
+             The project is implemented with the following features:
+             
+                 The tenant button is selected in the home window.
+                 The look for a house button is clicked and the required area, required rooms and required house are selected and register button is clicked.
+                 The pay rent button is clicked. Now the name, credit card number and amount are entered and the pay rent button is clicked to pay the rent.
+                 The report an issue button is clicked. Now the name, email and the issue in the house are sent to the admin when the report button is clicked.
+                 In the admin interface the update house details button is clicked and the new rental house details like area, rooms and house name are updated.
+                 The view house details button is selected to view the details of tenants after registration
+                 The view feedback button is clicked to view the issue faced by the tenants in their respective houses.
