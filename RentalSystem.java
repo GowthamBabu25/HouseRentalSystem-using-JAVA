@@ -1618,5 +1618,6 @@ public class RentalSystem
 	public static void main(String[] args) 
 	{
 		HouseRent r = new HouseRent(); //start project
+		System.out.println("hello");
 	}
 }
