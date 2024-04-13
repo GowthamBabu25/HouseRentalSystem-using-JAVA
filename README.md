@@ -2,7 +2,7 @@
 
 1.PROBLEM STATEMENT:
           
-          The House Rental management system is to search a rented house and provides the admin a convenient and flexible way of updating the house details.
+          The House Rental management system is to search for a house for rent and provides the admin a convenient and flexible way of updating the house details.
 
 2. OUTCOMES AND OBJECTIVES:
 
